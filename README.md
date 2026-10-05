@@ -9,7 +9,7 @@ This public project includes the complete Android app source, build scripts, and
 ## Edit and build
 
 1. Download and extract the source archive.
-2. Open the extracted view-spends-android folder in your editor.
+2. Open the folder you extracted in your editor.
 3. Follow its README.md for requirements and debug/release APK build steps.
 4. Read [CONTRIBUTING.md](CONTRIBUTING.md) before sharing changes.
 
